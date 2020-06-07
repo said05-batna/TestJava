@@ -21,6 +21,7 @@ description des package :
    
  *les topic ce cree automatique lorsque en execute le microservice SendWordsAppClient .
  
+ * URL postman pour les requetes : https://www.getpostman.com/collections/7d7dad7865184a58ab4c
  
  
  
